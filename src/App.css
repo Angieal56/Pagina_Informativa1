@@ -103,6 +103,21 @@ body {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
+/* Features */
+.features-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.feature-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 200px;
+}
+
+
 /* ===== SECCIÓN DE SERVICIOS ===== */
 .services-section {
   max-width: 1200px;
