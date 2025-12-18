@@ -81,7 +81,7 @@ function App() {
         {/* Hero Section */}
         <Hero />
 
-        {/* Sección de Características */}
+        {/* Sección de Características (Features) */}
         <section className="features-section">
           <h2>Características de la Plataforma</h2>
 

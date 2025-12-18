@@ -103,11 +103,12 @@ body {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Features */
+/* Features y features card */
 .features-container {
   display: flex;
   gap: 1rem;
   margin-top: 1rem;
+  padding: 1rem;
 }
 
 .feature-card {
